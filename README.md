@@ -5,4 +5,4 @@
 - clone repo
 - npm install
 - npx sequelize init
-- 
+- npm run dev
